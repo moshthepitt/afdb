@@ -26,7 +26,7 @@ skeem = media.Movie("Skeem",
 confusion_na_wa = media.Movie("Confusion Na Wa",
     "A dark comedy that traces the criss-crossing paths of a hand full of strangers.",
     "https://buni.tv/media/images/thumbnails/2014/8/confusion-na-wa.png",
-    "https://www.youtube.com/watch?v=7J_oSNR2Etg",
+    "https://www.youtube.com/watch?v=o1SOzEe2fHU",
     "https://buni.tv/video/confusion-na-wa/")
 
 me_wife_guru = media.Movie("Me, My Wife and her Guru",
