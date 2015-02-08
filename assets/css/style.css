@@ -2,6 +2,7 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   font-family: 'Ubuntu', sans-serif;
+  background-color:snow;
 }
 /* Custom page header */
 .header {
@@ -16,6 +17,7 @@ body {
   font-family: 'Sigmar One', cursive;
   font-size:35px;
   text-align: center;
+  color:#a00004;
 }
 #trailer .modal-dialog {
   margin-top: 200px;

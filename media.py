@@ -12,12 +12,17 @@ class Movie():
         self.watch_url = watch_url #a url where you can watch the whole movie
 
     def __unicode__(self):
+        """Unicode name of class instance"""
         return self.title
 
     def __str__(self):
+        """Unicode name of class instance"""
         return unicode(self).encode('utf-8')
 
     def show_trailer(self):
+        """
+        Opens browser and plays the movie trailer
+        """
         webbrowser.open(self.trailer_youtube_url)
 
 

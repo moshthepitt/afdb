@@ -64,7 +64,7 @@ movie_tile_content = '''
     <img src="{poster_image_url}" class="trailer-link" width="300" height="150"  data-toggle="modal" data-target="#trailer">
     <h2>{movie_title}</h2>
     <p>{movie_storyline}</p>
-    <p><a href="#" class="btn btn-default trailer-link" data-toggle="modal" data-target="#trailer"">Watch Trailer</a> <a href="{watch_url}"  traget="_blank" class="btn btn-success">Watch Full Movie</a></p>
+    <p><a href="#" class="btn btn-default trailer-link" data-toggle="modal" data-target="#trailer">Watch Trailer</a> <a href="{watch_url}"  target="_blank" class="btn btn-success">Watch Full Movie</a></p>
 </div>
 '''
 
